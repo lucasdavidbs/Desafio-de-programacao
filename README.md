@@ -43,8 +43,10 @@ Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [
 
 Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
 
-<=linha<=coluna<=![image](https://user-images.githubusercontent.com/100974695/156948922-ea3cd253-f022-4b97-9f0d-d64eadda4655.png)![image](https://user-images.githubusercontent.com/100974695/156948950-2b27253e-0530-4380-8e9c-8696b6b97d88.png)
+![image](https://user-images.githubusercontent.com/100974695/156948979-fb6374f7-45e3-4023-a729-791381b23ac1.png)<=linha<=coluna<=![image](https://user-images.githubusercontent.com/100974695/156949002-cd850d47-d617-48d5-a2bb-3b51897fe58e.png)
 
+Em
+Em
 Em
 Em
 Considere T, como o tamanho do texto.
