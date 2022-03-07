@@ -103,7 +103,7 @@ mun
 
 do
 
-#INSTRUÇÕES DE CADA QUESTÃO:
+# INSTRUÇÕES DAS QUESTÕES
 
 #Questão 1
 
