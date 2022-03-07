@@ -1,6 +1,6 @@
 #  DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI
 
-# Desafio com 3 questões de lógica para adentrar na Academia Capgemini.
+Desafio contendo 3 questões de lógica :
 
 # Questão 01
 
