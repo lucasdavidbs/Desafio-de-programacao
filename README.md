@@ -101,7 +101,6 @@ ola
 
 mun
 
-do
 
 # INSTRUÇÕES DAS QUESTÕES
 
