@@ -102,3 +102,15 @@ ola
 mun
 
 do
+
+#INSTRUÇÕES DE CADA QUESTÃO:
+
+#Questão 1
+
+- Foi feito a ordenação do array colocando do menor para o maior e pego o valor mediano.
+
+#Questão 2 
+- Foi desenvolvido para quando for imputado em tela um valor inteiro ele verificar se o valor imputado menos o cada valor do array é par se for ele incrementa no contador 1 e no final imprime o resultado desse contador.
+
+#Questão 3
+- Foi desenvolvido para ter um input de tela para ser passado uma string onde esse valor será removido os espaços em branco e verificado o tamanho, com o tamanho pegar a raiz quadrada e com isso splitar o texto pelo resultado da raiz colocando num array, depois percorrer o array e montar uma nova string colocando na variável de resultado como solicitado na descrição da questão.
